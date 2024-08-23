@@ -10,4 +10,6 @@ fn main() {
 
     // Aserción con mensaje personalizado se imprime al no ser iguales.
     assert_eq!(a, b, "we are testing addition with {} and {}", a, b);
+    
+    //Hay otras maneras de mostrar mensajes con aserciones.
 }
